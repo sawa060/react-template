@@ -5,19 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Getting started (front-end development environment)
 
 ```sh
-$ cd training/front
-
 $ yarn install
 
 $ yarn start
 ```
 
 URL for development: http://localhost:4000
-
-## Requirement
-
-- node.js v16.10.0
-- yarn 1.22.15
 
 ## Recommendation
 We recommend VSCode as an editor, but you can use whatever you like.
